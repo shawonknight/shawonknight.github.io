@@ -3,7 +3,7 @@ description: um site legal
 featimg: homecover.jpg
 
 url: http://shawonbd.github.io
-baseurl: 'shawonbd.github.io'
+baseurl: '/'
 port: 4343
 permalink: /:title/
 
