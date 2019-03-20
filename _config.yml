@@ -2,7 +2,7 @@ name: Movie
 description: um site legal
 featimg: homecover.jpg
 
-url: http://shawonbd.github.io
+url: http://shawonknight.github.io
 baseurl: '/'
 port: 4343
 permalink: /:title/
